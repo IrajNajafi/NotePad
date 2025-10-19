@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- App -->
+    <string name="app_name">دفترچه یادداشت</string>
+
+    <!-- Settings -->
+    <string name="setting">تنظیمات</string>
+    <string name="language">زبان</string>
+    <string name="darkMode">حالت تاریک</string>
+    <string name="fontSize">سایز فونت</string>
+
+    <!-- Language -->
+    <string name="english">انگلیسی</string>
+    <string name="persian">فارسی</string>
+    <string name="arabic">عربی</string>
+    <string name="turkish">ترکی</string>
+    <string name="german">المانی</string>
+    <string name="japanese">ژاپنی</string>
+    <string name="spanish">اسپانیایی</string>
+
+    <!-- Dark Mode -->
+    <string name="light">روشن</string>
+    <string name="dark">تیره</string>
+    <string name="system">سیستمی</string>
+
+    <!-- Font Size -->
+    <string name="small">کوچک</string>
+    <string name="medium">متوسط</string>
+    <string name="large">بزرگ</string>
+
+    <!-- Bottom Bar -->
+    <string name="trash" tools:ignore="DuplicateDefinition">سطل زیاله</string>
+    <string name="search">جستجو</string>
+    <string name="add">اضافه کردن</string>
+    <string name="star">ستاره</string>
+    <string name="themeColor">رنگ تم</string>
+
+    <!-- Dialog Categories -->
+    <string name="all">همه</string>
+    <string name="notes">یادداشت‌ها</string>
+    <string name="cancel">لغو</string>
+
+    <!-- Add Dialog -->
+    <string name="note">یادداشت</string>
+    <string name="checkList">چک ‌لیست</string>
+    <string name="Title">عنوان</string>
+    <string name="content">محتوا</string>
+    <string name="editNote">ویرایش یادداشت</string>
+    <string name="delete">حذف</string>
+    <string name="confirm_delete_message">آیا از حذف این آیتم مطمئن هستید؟</string>
+    <string name="noteList">لیست یادداشت</string>
+    <string name="editList">ویرایش لیست</string>
+    <string name="checklistTitle">عنوان لیست</string>
+    <string name="noteTitle">عنوان یادداشت</string>
+    <string name="newItem">آیتم جدید</string>
+
+    <!-- Validations   -->
+    <string name="title_or_body_cannot_be_empty">عنوان یا متن نمی‌تواند خالی باشد</string> <!-- ok   -->
+    <string name="title_or_list_cannot_be_empty" tools:ignore="ExtraTranslation">عنوان یا لیست نمی‌تواند خالی باشد</string>
+
+    <!-- Trash -->
+    <string name="restore">بازیابی</string>
+    <string name="the_trash_can_is_empty" tools:ignore="ExtraTranslation">سطل زباله خالی است</string>
+
+    <!-- Untitled -->
+    <string name="untitled" tools:ignore="ExtraTranslation">بدون عنوان</string>
+    <string name="untitled_list" tools:ignore="ExtraTranslation">لیست بدون عنوان</string>
+    <string name="untitled_note" tools:ignore="ExtraTranslation">یادداشت بدون عنوان</string>
+    <string name="untitled_checklist" tools:ignore="ExtraTranslation">چک ‌لیست بدون عنوان</string>
+
+    <!-- Favorites -->
+    <string name="favorites">علاقه‌مندی‌ها</string>
+    <string name="favorites_are_empty" tools:ignore="ExtraTranslation">لیست علاقه‌مندی‌ها خالی است</string>
+    <string name="favorite_notes">یادداشت‌های مورد علاقه</string>
+    <string name="favorites_checklists">چک ‌لیست‌های مورد علاقه</string>
+
+    <!-- Search -->
+    <string name="search_...">جستجو کنید…</string>
+    <string name="no_result_found">نتیجه‌ای یافت نشد</string>
+
+    <!-- Empty States -->
+    <string name="there_is_no_note">یادداشتی وجود ندارد</string>
+    <string name="there_is_no_list" tools:ignore="ExtraTranslation">لیستی وجود ندارد</string>
+    <string name="there_is_no_information">اطلاعاتی وجود ندارد</string>
+
+    <!-- Errors -->
+    <string name="error">خطای ناشناخته</string>
+
+    <!-- Save -->
+    <string name="noteSaved">یادداشت ذخیره شد</string>
+    <string name="listSaved">لیست ذخیره شد</string>
+    <string name="note_saved_successfully">یادداشت با موفقیت ذخیره شد</string>
+    <string name="checklist_saved_successfully">چک‌ لیست با موفقیت ذخیره شد</string>
+
+    <!-- Update -->
+    <string name="note_updated_successfully">یادداشت با موفقیت به‌روزرسانی شد</string>
+    <string name="checklist_updated_successfully">چک ‌لیست با موفقیت به‌روزرسانی شد</string>
+
+    <!-- Trash Actions -->
+    <string name="note_trashed">یادداشت به سطل زباله منتقل شد</string>
+    <string name="checklist_trashed">چک‌ لیست به سطل زباله منتقل شد</string>
+
+    <string name="note_restored">یادداشت بازیابی شد</string>
+    <string name="checklist_restored" tools:ignore="ExtraTranslation">چک‌ لیست بازیابی شد</string>
+
+    <string name="note_deleted">یادداشت برای همیشه حذف شد</string>
+    <string name="checklist_deleted">چک ‌لیست برای همیشه حذف شد</string>
+
+    <!-- Loading & Errors -->
+    <string name="loading" tools:ignore="ExtraTranslation">در حال بارگذاری…</string>
+    <string name="loading_notes">در حال بارگذاری یادداشت‌ها…</string>
+    <string name="loading_checklists" tools:ignore="ExtraTranslation">در حال بارگذاری چک لیست‌ها…</string>
+    <string name="network_error" tools:ignore="ExtraTranslation">خطا در اتصال به اینترنت</string>
+    <string name="unknown_error" tools:ignore="ExtraTranslation">خطای ناشناخته رخ داده است</string>
+
+    <!-- TrashDialog -->
+    <string name="delete_item_confirmation">آیا مطمئن هستید که می‌خواهید این مورد را حذف کنید؟</string>
+    <string name="yes">بله</string>
+    <string name="no">خیر</string>
+    <string name="delete_recycle_trash_icon">آیا می‌خواهید این آیتم به سطل زباله منتقل شود؟</string>
+    <string name="trashed_notes">یادداشت های سطل زباله</string>
+    <string name="trashed_checklists">چک لیست های سطل زباله</string>
+    <string name="no_notes_found">هیچ یادداشتی یافت نشد .</string>
+    <string name="no_checklists_found">هیچ چک لیستی یافت نشد .</string>
+    <string name="info">اطلاعات</string>
+    <string name="program_version_1.0.0">"نسخه برنامه 1.0.0 </string>
+
+        <string name="zoom_in">بزرگ‌نمایی +</string>
+        <string name="zoom_out">کوچک‌نمایی -</string>
+        <string name="save">ذخیره</string>
+
+    <string name="delete_single_item_confirmation">آیا می‌خواهید این مورد را برای همیشه حذف کنید؟</string>
+    <string name="delete_multiple_items_confirmation">آیا مطمئن هستید که می‌خواهید %1$d مورد را برای همیشه حذف کنید؟</string>
+
+
+
+
+
+
+
+</resources>

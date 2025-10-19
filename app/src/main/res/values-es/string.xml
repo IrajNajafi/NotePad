@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- App -->
+    <string name="app_name" tools:ignore="MissingTranslation">Bloc de Notas</string>
+
+    <!-- Settings -->
+    <string name="setting" tools:ignore="MissingTranslation">Ajustes</string>
+    <string name="language" tools:ignore="MissingTranslation">Idioma</string>
+    <string name="darkMode" tools:ignore="MissingTranslation">Modo Oscuro</string>
+    <string name="fontSize" tools:ignore="MissingTranslation">Tamaño de Fuente</string>
+
+    <!-- Language -->
+    <string name="english" tools:ignore="MissingTranslation">Inglés</string>
+    <string name="persian" tools:ignore="MissingTranslation">Persa</string>
+    <string name="arabic">Árabe</string>
+    <string name="turkish">Turco</string>
+    <string name="german">Alemán</string>
+    <string name="japanese">Japonés</string>
+    <string name="spanish">Español</string>
+
+    <!-- Dark Mode -->
+    <string name="light" tools:ignore="MissingTranslation">Claro</string>
+    <string name="dark" tools:ignore="MissingTranslation">Oscuro</string>
+    <string name="system" tools:ignore="MissingTranslation">Sistema</string>
+
+    <!-- Font Size -->
+    <string name="small" tools:ignore="MissingTranslation">Pequeño</string>
+    <string name="medium" tools:ignore="MissingTranslation">Mediano</string>
+    <string name="large" tools:ignore="MissingTranslation">Grande</string>
+
+    <!-- Bottom Bar -->
+    <string name="trash" tools:ignore="DuplicateDefinition">Papelera</string>
+    <string name="search" tools:ignore="MissingTranslation">Buscar</string>
+    <string name="add" tools:ignore="MissingTranslation">Añadir</string>
+    <string name="star" tools:ignore="MissingTranslation">Favorito</string>
+    <string name="themeColor" tools:ignore="MissingTranslation">Color del Tema</string>
+
+    <!-- Dialog Categories -->
+    <string name="all" tools:ignore="MissingTranslation">Todos</string>
+    <string name="notes" tools:ignore="MissingTranslation">Notas</string>
+    <string name="cancel" tools:ignore="MissingTranslation">Cancelar</string>
+
+    <!-- Add Dialog -->
+    <string name="note" tools:ignore="MissingTranslation">Nota</string>
+    <string name="checkList" tools:ignore="MissingTranslation">Lista de Verificación</string>
+    <string name="Title" tools:ignore="MissingTranslation">Título</string>
+    <string name="content" tools:ignore="MissingTranslation">Contenido</string>
+    <string name="editNote" tools:ignore="MissingTranslation">Editar Nota</string>
+    <string name="delete" tools:ignore="MissingTranslation">Eliminar</string>
+    <string name="confirm_delete_message" tools:ignore="MissingTranslation">¿Está seguro de que desea eliminar este elemento?</string>
+    <string name="noteList" tools:ignore="MissingTranslation">Lista de Notas</string>
+    <string name="editList" tools:ignore="MissingTranslation">Editar Lista</string>
+    <string name="checklistTitle" tools:ignore="MissingTranslation">Título de la Lista</string>
+    <string name="noteTitle" tools:ignore="MissingTranslation">Título de la Nota</string>
+    <string name="newItem" tools:ignore="MissingTranslation">Nuevo Ítem</string>
+
+    <!-- Validations -->
+    <string name="title_or_body_cannot_be_empty" tools:ignore="MissingTranslation">El título o contenido no puede estar vacío</string>
+    <string name="title_or_list_cannot_be_empty" tools:ignore="MissingTranslation">El título o la lista no puede estar vacío</string>
+
+    <!-- Trash -->
+    <string name="restore" tools:ignore="MissingTranslation">Restaurar</string>
+    <string name="the_trash_can_is_empty" tools:ignore="MissingTranslation">La papelera está vacía</string>
+
+    <!-- Untitled -->
+    <string name="untitled" tools:ignore="MissingTranslation">Sin título</string>
+    <string name="untitled_list" tools:ignore="MissingTranslation">Lista sin título</string>
+    <string name="untitled_note" tools:ignore="MissingTranslation">Nota sin título</string>
+    <string name="untitled_checklist" tools:ignore="MissingTranslation">Lista de Verificación sin título</string>
+
+    <!-- Favorites -->
+    <string name="favorites" tools:ignore="MissingTranslation">Favoritos</string>
+    <string name="favorites_are_empty" tools:ignore="MissingTranslation">No hay favoritos</string>
+    <string name="favorite_notes" tools:ignore="MissingTranslation">Notas Favoritas</string>
+    <string name="favorites_checklists" tools:ignore="MissingTranslation">Listas de Verificación Favoritas</string>
+
+    <!-- Search -->
+    <string name="search_..." tools:ignore="MissingTranslation,TypographyEllipsis">Buscar…</string>
+    <string name="no_result_found" tools:ignore="MissingTranslation">No se encontraron resultados</string>
+
+    <!-- Empty States -->
+    <string name="there_is_no_note" tools:ignore="MissingTranslation">No hay notas</string>
+    <string name="there_is_no_list" tools:ignore="MissingTranslation">No hay listas</string>
+    <string name="there_is_no_information" tools:ignore="MissingTranslation">No hay información</string>
+
+    <!-- Errors -->
+    <string name="error" tools:ignore="MissingTranslation">Error desconocido</string>
+
+    <!-- Save -->
+    <string name="noteSaved" tools:ignore="MissingTranslation">Nota guardada</string>
+    <string name="listSaved" tools:ignore="MissingTranslation">Lista guardada</string>
+    <string name="note_saved_successfully" tools:ignore="MissingTranslation">Nota guardada con éxito</string>
+    <string name="checklist_saved_successfully" tools:ignore="MissingTranslation">Lista de verificación guardada con éxito</string>
+
+    <!-- Update -->
+    <string name="note_updated_successfully" tools:ignore="MissingTranslation">Nota actualizada con éxito</string>
+    <string name="checklist_updated_successfully" tools:ignore="MissingTranslation">Lista de verificación actualizada con éxito</string>
+
+    <!-- Trash Actions -->
+    <string name="note_trashed" tools:ignore="MissingTranslation">Nota enviada a la papelera</string>
+    <string name="checklist_trashed" tools:ignore="MissingTranslation">Lista de verificación enviada a la papelera</string>
+    <string name="note_restored" tools:ignore="MissingTranslation">Nota restaurada</string>
+    <string name="checklist_restored" tools:ignore="MissingTranslation">Lista de verificación restaurada</string>
+    <string name="note_deleted" tools:ignore="MissingTranslation">Nota eliminada</string>
+    <string name="checklist_deleted" tools:ignore="MissingTranslation">Lista de verificación eliminada</string>
+
+    <!-- Loading -->
+    <string name="loading" tools:ignore="MissingTranslation">Cargando…</string>
+    <string name="loading_notes" tools:ignore="MissingTranslation">Cargando notas…</string>
+    <string name="loading_checklists" tools:ignore="MissingTranslation">Cargando listas…</string>
+
+    <!-- Error Loading -->
+    <string name="network_error" tools:ignore="MissingTranslation">Error de red</string>
+    <string name="unknown_error" tools:ignore="MissingTranslation">Ocurrió un error desconocido</string>
+    <string name="error_loading_notes" tools:ignore="MissingTranslation">Error al cargar notas</string>
+    <string name="error_loading_checklists" tools:ignore="MissingTranslation">Error al cargar listas de verificación</string>
+
+    <!-- TrashDialog -->
+    <string name="delete_item_confirmation">¿Está seguro de que desea eliminar este elemento?</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="delete_recycle_trash_icon">¿Desea mover este elemento a la papelera?</string>
+    <string name="trashed_notes">Notas en la papelera</string>
+    <string name="trashed_checklists">Listas de verificación en la papelera</string>
+    <string name="no_notes_found">No se encontraron notas.</string>
+    <string name="no_checklists_found">No se encontraron listas de verificación.</string>
+    <string name="info">Información</string>
+    <string name="program_version_1.0.0">Versión del programa 1.0.0</string>
+    <string name="zoom_in">Acercar +</string>
+    <string name="zoom_out">Alejar -</string>
+    <string name="save">Guardar</string>
+    <string name="delete_single_item_confirmation">¿Deseas eliminar este elemento de forma permanente?</string>
+    <string name="delete_multiple_items_confirmation">¿Estás seguro de que deseas eliminar permanentemente %1$d elementos?</string>
+
+</resources>

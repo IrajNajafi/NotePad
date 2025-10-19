@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- App -->
+    <string name="app_name" tools:ignore="MissingTranslation">دفتر الملاحظات</string>
+
+    <!-- Settings -->
+    <string name="setting" tools:ignore="MissingTranslation">الإعدادات</string>
+    <string name="language" tools:ignore="MissingTranslation">اللغة</string>
+    <string name="darkMode" tools:ignore="MissingTranslation">الوضع الداكن</string>
+    <string name="fontSize" tools:ignore="MissingTranslation">حجم الخط</string>
+
+    <!-- Language -->
+    <string name="english" tools:ignore="MissingTranslation">الإنجليزية</string>
+    <string name="persian" tools:ignore="MissingTranslation">الفارسية</string>
+    <string name="arabic">العربية</string>
+    <string name="turkish">التركية</string>
+    <string name="german">الألمانية</string>
+    <string name="japanese">اليابانية</string>
+    <string name="spanish">الإسبانية</string>
+
+    <!-- Dark Mode -->
+    <string name="light" tools:ignore="MissingTranslation">فاتح</string>
+    <string name="dark" tools:ignore="MissingTranslation">داكن</string>
+    <string name="system" tools:ignore="MissingTranslation">نظامي</string>
+
+    <!-- Font Size -->
+    <string name="small" tools:ignore="MissingTranslation">صغير</string>
+    <string name="medium" tools:ignore="MissingTranslation">متوسط</string>
+    <string name="large" tools:ignore="MissingTranslation">كبير</string>
+
+    <!-- Bottom Bar -->
+    <string name="trash" tools:ignore="DuplicateDefinition">سلة المهملات</string>
+    <string name="search" tools:ignore="MissingTranslation">بحث</string>
+    <string name="add" tools:ignore="MissingTranslation">إضافة</string>
+    <string name="star" tools:ignore="MissingTranslation">نجمة</string>
+    <string name="themeColor" tools:ignore="MissingTranslation">لون الثيم</string>
+
+    <!-- Dialog Categories -->
+    <string name="all" tools:ignore="MissingTranslation">الكل</string>
+    <string name="notes" tools:ignore="MissingTranslation">ملاحظات</string>
+    <string name="cancel" tools:ignore="MissingTranslation">إلغاء</string>
+
+    <!-- Add Dialog -->
+    <string name="note" tools:ignore="MissingTranslation">ملاحظة</string>
+    <string name="checkList" tools:ignore="MissingTranslation">قائمة تحقق</string>
+    <string name="Title" tools:ignore="MissingTranslation">العنوان</string>
+    <string name="content" tools:ignore="MissingTranslation">المحتوى</string>
+    <string name="editNote" tools:ignore="MissingTranslation">تعديل الملاحظة</string>
+    <string name="delete" tools:ignore="MissingTranslation">حذف</string>
+    <string name="confirm_delete_message" tools:ignore="MissingTranslation">هل أنت متأكد أنك تريد حذف هذا العنصر؟</string>
+    <string name="noteList" tools:ignore="MissingTranslation">قائمة الملاحظات</string>
+    <string name="editList" tools:ignore="MissingTranslation">تعديل القائمة</string>
+    <string name="checklistTitle" tools:ignore="MissingTranslation">عنوان قائمة التحقق</string>
+    <string name="noteTitle" tools:ignore="MissingTranslation">عنوان الملاحظة</string>
+    <string name="newItem" tools:ignore="MissingTranslation">عنصر جديد</string>
+
+    <!-- Validations -->
+    <string name="title_or_body_cannot_be_empty" tools:ignore="MissingTranslation">لا يمكن أن يكون العنوان أو المحتوى فارغًا</string>
+    <string name="title_or_list_cannot_be_empty" tools:ignore="MissingTranslation">لا يمكن أن يكون العنوان أو القائمة فارغًا</string>
+
+    <!-- Trash -->
+    <string name="restore" tools:ignore="MissingTranslation">استعادة</string>
+    <string name="the_trash_can_is_empty" tools:ignore="MissingTranslation">سلة المهملات فارغة</string>
+
+    <!-- Untitled -->
+    <string name="untitled" tools:ignore="MissingTranslation">بدون عنوان</string>
+    <string name="untitled_list" tools:ignore="MissingTranslation">قائمة بدون عنوان</string>
+    <string name="untitled_note" tools:ignore="MissingTranslation">ملاحظة بدون عنوان</string>
+    <string name="untitled_checklist" tools:ignore="MissingTranslation">قائمة تحقق بدون عنوان</string>
+
+    <!-- Favorites -->
+    <string name="favorites" tools:ignore="MissingTranslation">المفضلة</string>
+    <string name="favorites_are_empty" tools:ignore="MissingTranslation">المفضلة فارغة</string>
+    <string name="favorite_notes" tools:ignore="MissingTranslation">الملاحظات المفضلة</string>
+    <string name="favorites_checklists" tools:ignore="MissingTranslation">قوائم التحقق المفضلة</string>
+
+    <!-- Search -->
+    <string name="search_..." tools:ignore="MissingTranslation,TypographyEllipsis">بحث...</string>
+    <string name="no_result_found" tools:ignore="MissingTranslation">لم يتم العثور على نتائج</string>
+
+    <!-- Empty States -->
+    <string name="there_is_no_note" tools:ignore="MissingTranslation">لا توجد ملاحظات</string>
+    <string name="there_is_no_list" tools:ignore="MissingTranslation">لا توجد قوائم</string>
+    <string name="there_is_no_information" tools:ignore="MissingTranslation">لا توجد معلومات</string>
+
+    <!-- Errors -->
+    <string name="error" tools:ignore="MissingTranslation">خطأ غير معروف</string>
+
+    <!-- Save -->
+    <string name="noteSaved" tools:ignore="MissingTranslation">تم حفظ الملاحظة</string>
+    <string name="listSaved" tools:ignore="MissingTranslation">تم حفظ القائمة</string>
+    <string name="note_saved_successfully" tools:ignore="MissingTranslation">تم حفظ الملاحظة بنجاح</string>
+    <string name="checklist_saved_successfully" tools:ignore="MissingTranslation">تم حفظ قائمة التحقق بنجاح</string>
+
+    <!-- Update -->
+    <string name="note_updated_successfully" tools:ignore="MissingTranslation">تم تحديث الملاحظة بنجاح</string>
+    <string name="checklist_updated_successfully" tools:ignore="MissingTranslation">تم تحديث قائمة التحقق بنجاح</string>
+
+    <!-- Trash Actions -->
+    <string name="note_trashed" tools:ignore="MissingTranslation">تم نقل الملاحظة إلى سلة المهملات</string>
+    <string name="checklist_trashed" tools:ignore="MissingTranslation">تم نقل قائمة التحقق إلى سلة المهملات</string>
+    <string name="note_restored" tools:ignore="MissingTranslation">تم استعادة الملاحظة</string>
+    <string name="checklist_restored" tools:ignore="MissingTranslation">تم استعادة قائمة التحقق</string>
+    <string name="note_deleted" tools:ignore="MissingTranslation">تم حذف الملاحظة</string>
+    <string name="checklist_deleted" tools:ignore="MissingTranslation">تم حذف قائمة التحقق</string>
+
+    <!-- Loading -->
+    <string name="loading" tools:ignore="MissingTranslation">جارٍ التحميل…</string>
+    <string name="loading_notes" tools:ignore="MissingTranslation">جارٍ تحميل الملاحظات…</string>
+    <string name="loading_checklists" tools:ignore="MissingTranslation">جارٍ تحميل قوائم التحقق…</string>
+
+    <!-- Error Loading -->
+    <string name="network_error" tools:ignore="MissingTranslation">خطأ في الشبكة</string>
+    <string name="unknown_error" tools:ignore="MissingTranslation">حدث خطأ غير معروف</string>
+    <string name="error_loading_notes" tools:ignore="MissingTranslation">حدث خطأ أثناء تحميل الملاحظات</string>
+    <string name="error_loading_checklists" tools:ignore="MissingTranslation">حدث خطأ أثناء تحميل قوائم التحقق</string>
+
+    <!-- TrashDialog -->
+    <string name="delete_item_confirmation">هل أنت متأكد أنك تريد حذف هذا العنصر؟</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="delete_recycle_trash_icon">هل تريد نقل هذا العنصر إلى سلة المهملات؟</string>
+    <string name="trashed_notes">الملاحظات المحذوفة</string>
+    <string name="trashed_checklists">قوائم التحقق المحذوفة</string>
+    <string name="no_notes_found">لا توجد ملاحظات.</string>
+    <string name="no_checklists_found">لا توجد قوائم تحقق.</string>
+    <string name="info">معلومات</string>
+    <string name="program_version_1.0.0">إصدار البرنامج 1.0.0</string>
+
+    <string name="zoom_in">تكبير +</string>
+    <string name="zoom_out">تصغير -</string>
+    <string name="save">حفظ</string>
+
+    <string name="delete_single_item_confirmation">هل تريد حذف هذا العنصر نهائيًا؟</string>
+    <string name="delete_multiple_items_confirmation">هل أنت متأكد أنك تريد حذف %1$d عناصر نهائيًا؟</string>
+
+</resources>

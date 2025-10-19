@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- App -->
+    <string name="app_name" tools:ignore="MissingTranslation">Not Defteri</string>
+
+    <!-- Settings -->
+    <string name="setting" tools:ignore="MissingTranslation">Ayarlar</string>
+    <string name="language" tools:ignore="MissingTranslation">Dil</string>
+    <string name="darkMode" tools:ignore="MissingTranslation">Karanlık Mod</string>
+    <string name="fontSize" tools:ignore="MissingTranslation">Yazı Boyutu</string>
+
+    <!-- Language -->
+    <string name="english" tools:ignore="MissingTranslation">İngilizce</string>
+    <string name="persian" tools:ignore="MissingTranslation">Farsça</string>
+    <string name="arabic">Arapça</string>
+    <string name="turkish">Türkçe</string>
+    <string name="german">Almanca</string>
+    <string name="japanese">Japonca</string>
+    <string name="spanish">İspanyolca</string>
+
+    <!-- Dark Mode -->
+    <string name="light" tools:ignore="MissingTranslation">Açık</string>
+    <string name="dark" tools:ignore="MissingTranslation">Koyu</string>
+    <string name="system" tools:ignore="MissingTranslation">Sistem</string>
+
+    <!-- Font Size -->
+    <string name="small" tools:ignore="MissingTranslation">Küçük</string>
+    <string name="medium" tools:ignore="MissingTranslation">Orta</string>
+    <string name="large" tools:ignore="MissingTranslation">Büyük</string>
+
+    <!-- Bottom Bar -->
+    <string name="trash" tools:ignore="DuplicateDefinition">Çöp Kutusu</string>
+    <string name="search" tools:ignore="MissingTranslation">Ara</string>
+    <string name="add" tools:ignore="MissingTranslation">Ekle</string>
+    <string name="star" tools:ignore="MissingTranslation">Yıldız</string>
+    <string name="themeColor" tools:ignore="MissingTranslation">Tema Rengi</string>
+
+    <!-- Dialog Categories -->
+    <string name="all" tools:ignore="MissingTranslation">Tümü</string>
+    <string name="notes" tools:ignore="MissingTranslation">Notlar</string>
+    <string name="cancel" tools:ignore="MissingTranslation">İptal</string>
+
+    <!-- Add Dialog -->
+    <string name="note" tools:ignore="MissingTranslation">Not</string>
+    <string name="checkList" tools:ignore="MissingTranslation">Kontrol Listesi</string>
+    <string name="Title" tools:ignore="MissingTranslation">Başlık</string>
+    <string name="content" tools:ignore="MissingTranslation">İçerik</string>
+    <string name="editNote" tools:ignore="MissingTranslation">Notu Düzenle</string>
+    <string name="delete" tools:ignore="MissingTranslation">Sil</string>
+    <string name="confirm_delete_message" tools:ignore="MissingTranslation">Bu öğeyi silmek istediğinizden emin misiniz?</string>
+    <string name="noteList" tools:ignore="MissingTranslation">Not Listesi</string>
+    <string name="editList" tools:ignore="MissingTranslation">Listeyi Düzenle</string>
+    <string name="checklistTitle" tools:ignore="MissingTranslation">Kontrol Listesi Başlığı</string>
+    <string name="noteTitle" tools:ignore="MissingTranslation">Not Başlığı</string>
+    <string name="newItem" tools:ignore="MissingTranslation">Yeni Öğeler</string>
+
+    <!-- Validations -->
+    <string name="title_or_body_cannot_be_empty" tools:ignore="MissingTranslation">Başlık veya içerik boş olamaz</string>
+    <string name="title_or_list_cannot_be_empty" tools:ignore="MissingTranslation">Başlık veya liste boş olamaz</string>
+
+    <!-- Trash -->
+    <string name="restore" tools:ignore="MissingTranslation">Geri Yükle</string>
+    <string name="the_trash_can_is_empty" tools:ignore="MissingTranslation">Çöp kutusu boş</string>
+
+    <!-- Untitled -->
+    <string name="untitled" tools:ignore="MissingTranslation">Başlıksız</string>
+    <string name="untitled_list" tools:ignore="MissingTranslation">Başlıksız Liste</string>
+    <string name="untitled_note" tools:ignore="MissingTranslation">Başlıksız Not</string>
+    <string name="untitled_checklist" tools:ignore="MissingTranslation">Başlıksız Kontrol Listesi</string>
+
+    <!-- Favorites -->
+    <string name="favorites" tools:ignore="MissingTranslation">Favoriler</string>
+    <string name="favorites_are_empty" tools:ignore="MissingTranslation">Favoriler boş</string>
+    <string name="favorite_notes" tools:ignore="MissingTranslation">Favori Notlar</string>
+    <string name="favorites_checklists" tools:ignore="MissingTranslation">Favori Kontrol Listeleri</string>
+
+    <!-- Search -->
+    <string name="search_..." tools:ignore="MissingTranslation,TypographyEllipsis">Ara...</string>
+    <string name="no_result_found" tools:ignore="MissingTranslation">Sonuç bulunamadı</string>
+
+    <!-- Empty States -->
+    <string name="there_is_no_note" tools:ignore="MissingTranslation">Hiç not yok</string>
+    <string name="there_is_no_list" tools:ignore="MissingTranslation">Hiç liste yok</string>
+    <string name="there_is_no_information" tools:ignore="MissingTranslation">Hiç bilgi yok</string>
+
+    <!-- Errors -->
+    <string name="error" tools:ignore="MissingTranslation">Bilinmeyen hata</string>
+
+    <!-- Save -->
+    <string name="noteSaved" tools:ignore="MissingTranslation">Not kaydedildi</string>
+    <string name="listSaved" tools:ignore="MissingTranslation">Liste kaydedildi</string>
+    <string name="note_saved_successfully" tools:ignore="MissingTranslation">Not başarıyla kaydedildi</string>
+    <string name="checklist_saved_successfully" tools:ignore="MissingTranslation">Kontrol listesi başarıyla kaydedildi</string>
+
+    <!-- Update -->
+    <string name="note_updated_successfully" tools:ignore="MissingTranslation">Not başarıyla güncellendi</string>
+    <string name="checklist_updated_successfully" tools:ignore="MissingTranslation">Kontrol listesi başarıyla güncellendi</string>
+
+    <!-- Trash Actions -->
+    <string name="note_trashed" tools:ignore="MissingTranslation">Not çöp kutusuna taşındı</string>
+    <string name="checklist_trashed" tools:ignore="MissingTranslation">Kontrol listesi çöp kutusuna taşındı</string>
+    <string name="note_restored" tools:ignore="MissingTranslation">Not geri yüklendi</string>
+    <string name="checklist_restored" tools:ignore="MissingTranslation">Kontrol listesi geri yüklendi</string>
+    <string name="note_deleted" tools:ignore="MissingTranslation">Not silindi</string>
+    <string name="checklist_deleted" tools:ignore="MissingTranslation">Kontrol listesi silindi</string>
+
+    <!-- Loading -->
+    <string name="loading" tools:ignore="MissingTranslation">Yükleniyor…</string>
+    <string name="loading_notes" tools:ignore="MissingTranslation">Notlar yükleniyor…</string>
+    <string name="loading_checklists" tools:ignore="MissingTranslation">Kontrol listeleri yükleniyor…</string>
+
+    <!-- Error Loading -->
+    <string name="network_error" tools:ignore="MissingTranslation">Ağ hatası</string>
+    <string name="unknown_error" tools:ignore="MissingTranslation">Bilinmeyen hata oluştu</string>
+    <string name="error_loading_notes" tools:ignore="MissingTranslation">Notlar yüklenirken hata oluştu</string>
+    <string name="error_loading_checklists" tools:ignore="MissingTranslation">Kontrol listeleri yüklenirken hata oluştu</string>
+
+    <!-- TrashDialog -->
+    <string name="delete_item_confirmation">Bu öğeyi silmek istediğinizden emin misiniz?</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+    <string name="delete_recycle_trash_icon">Bu öğeyi çöp kutusuna taşımak ister misiniz?</string>
+    <string name="trashed_notes">Silinen Notlar</string>
+    <string name="trashed_checklists">Silinen Kontrol Listeleri</string>
+    <string name="no_notes_found">Hiç not bulunamadı.</string>
+    <string name="no_checklists_found">Hiç kontrol listesi bulunamadı.</string>
+    <string name="info">Bilgi</string>
+    <string name="program_version_1.0.0">Program sürümü 1.0.0</string>
+
+    esources>
+    <string name="zoom_in">Yakınlaştır +</string>
+    <string name="zoom_out">Uzaklaştır -</string>
+    <string name="save">Kaydet</string>
+
+    <string name="delete_single_item_confirmation">Bu öğeyi kalıcı olarak silmek istiyor musun?</string>
+    <string name="delete_multiple_items_confirmation">%1$d öğeyi kalıcı olarak silmek istediğinden emin misin?</string>
+
+</resources>
