@@ -47,7 +47,7 @@
 
 1. **Clone the repository (if using GitHub later):**
 ```bash
-git clone https://github.com/IrajNajafi/NotePade.git
+git clone https://github.com/IrajNajafi/NotePad.git
 ```
 2. **Open in Android Studio:** Open the project folder using Android Studio.
 3. **Gradle Sync:** Wait for Gradle to automatically sync all project files.
