@@ -32,12 +32,13 @@ It provides a clean, fast, and intuitive experience for creating, organizing, an
     <td><img src="https://github.com/IrajNajafi/NotePad/raw/main/app/screenshots/sampleCheckList.png" width="250"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/IrajNajafi/NotePad/raw/main/app/screenshots/favorites.png" width="250"></td>
     <td><img src="https://github.com/IrajNajafi/NotePad/raw/main/app/screenshots/delete.png" width="250"></td>
+     <td><img src="https://github.com/IrajNajafi/NotePad/raw/main/app/screenshots/darkMode.png" width="250"></td>
   </tr>
   <tr>
     <td><img src="https://github.com/IrajNajafi/NotePad/raw/main/app/screenshots/search.png" width="250"></td>
-    <td><img src="https://github.com/IrajNajafi/NotePad/raw/main/app/screenshots/darkMode.png" width="250"></td>
+   <td><img src="https://github.com/IrajNajafi/NotePad/raw/main/app/screenshots/favorites.png" width="250"></td>
+
   </tr>
   <tr>
     <td><img src="https://github.com/IrajNajafi/NotePad/raw/main/app/screenshots/settings.png" width="250"></td>
