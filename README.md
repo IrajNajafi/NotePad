@@ -18,10 +18,6 @@ It provides a clean, fast, and intuitive experience for creating, organizing, an
 
 ---## 📸 Screenshots
 
-> All screenshots are shown side-by-side for better view.  
-> Make sure the folder `screenshots/` is in the same directory as this README.md  
-> and all file names match exactly (including capitalization and extension).
-
 <table>
   <tr>
     <td><img src="https://github.com/IrajNajafi/NotePad/raw/main/app/screenshots/homeScreen1.png" width="250"></td>
