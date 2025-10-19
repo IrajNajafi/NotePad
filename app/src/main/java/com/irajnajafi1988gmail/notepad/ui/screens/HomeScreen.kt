@@ -179,7 +179,7 @@ fun HomeScreen(
                         .padding(innerPadding)
                 ) {
                     // Background image depending on section
-                    val bgRes = if (selectedSection == ToggleNotePad.NOTE) R.drawable.n else R.drawable.c
+                    val bgRes = if (selectedSection == ToggleNotePad.NOTE) R.drawable.back_note else R.drawable.back_checklist
                     Image(
                         painter = painterResource(id = bgRes),
                         contentDescription = null,
