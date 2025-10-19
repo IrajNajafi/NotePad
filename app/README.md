@@ -1,19 +1,20 @@
-# NotePad: Modern Note-Taking Android App
+# 📝 NotePad — Modern Note-Taking App
 
-**NotePad** is a native Android application built using **Jetpack Compose** and the **MVVM** architecture. It provides a clean, interactive, and modern experience for creating, managing, and organizing notes and checklists.
+**NotePad** is a modern Android application built with **Kotlin**, **Jetpack Compose**, and the **MVVM** architecture.  
+It provides a clean, fast, and intuitive experience for creating, organizing, and personalizing your notes and checklists.
 
 ---
 
-## 🚀 Key Features
+## 🚀 Features
 
-- **Notes & Checklists**: Create, edit, and manage notes and checklists seamlessly.
-- **Favorites**: Mark important items for quick access.
-- **Delete & Restore**: Soft-delete notes/checklists and restore them anytime.
-- **Search**: Live search for quick finding of notes.
-- **Multi-Language Support**: Switch languages dynamically, including **RTL support** for Persian and Arabic.
-- **Dark & Light Mode**: Choose between system, dark, and light themes.
-- **Dynamic Text Zoom**: Adjust text size via buttons or pinch gestures.
-- **Modern, Responsive UI**: Smooth and interactive interfaces using Jetpack Compose.
+- 🗒️ **Notes & Checklists** — Create, edit, and manage your notes and to-dos easily.
+- ⭐ **Favorites** — Mark important notes for quick access.
+- 🗑️ **Delete & Restore** — Soft-delete and restore notes anytime.
+- 🔍 **Search** — Real-time search across notes.
+- 🌍 **Multi-Language Support** — Switch languages dynamically (includes full RTL for Persian & Arabic).
+- 🌗 **Dark & Light Mode** — Choose between System, Dark, or Light themes.
+- 🔎 **Dynamic Text Zoom** — Change text size via buttons or pinch gestures.
+- 🎨 **Modern UI** — Clean, responsive design built entirely with Jetpack Compose.
 
 ---
 
@@ -37,35 +38,14 @@
 - **UI:** Jetpack Compose
 - **Navigation:** Compose Navigation
 - **Dependency Injection:** Hilt
-- **Local Storage:** Room Database & DataStore
-- **Asynchronous:** Coroutines
+- **Local Storage:** Room Database + DataStore
+- **Asynchronous:** Kotlin Coroutines
 - **Architecture:** MVVM
 
 ---
 
 ## ⚙️ Setup
 
-1. **Clone the repository (if using GitHub later):**
-```bash
-git clone https://github.com/IrajNajafi/NotePad.git
-```
-2. **Open in Android Studio:** Open the project folder using Android Studio.
-3. **Gradle Sync:** Wait for Gradle to automatically sync all project files.
-4. **Run the App:** Launch the app on an emulator or a physical device.
-
----
-
-## 🤝 Contribution
-
-Contributions, bug fixes, or improvements are welcome! To contribute:
-
-1. Open an **Issue** on GitHub.
-2. Fork the repository and make your changes.
-3. Submit a **Pull Request** for review.
-
----
-
-## 👨‍💻 Contact
-
-**Developer:** Iraj Najafi  
-**Email:** irajnajafi1988@gmail.com
+1. **Clone this repository:**
+   ```bash
+   git clone https://github.com/IrajNajafi/NotePad.git
