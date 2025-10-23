@@ -17,7 +17,6 @@ class ThemeRepositoryImpl @Inject constructor(
     @ApplicationContext private val context: Context
 ) : ThemeRepository {
 
-    /** خواندن وضعیت دارک مود از DataStore */
     override fun getDarkModeState(): Flow<ItemDarkMode> =
         context.ThemeDataStore.data
             .map { preferences ->
@@ -25,7 +24,6 @@ class ThemeRepositoryImpl @Inject constructor(
                 ItemDarkMode.fromCode(code)
             }
 
-    /** ذخیره وضعیت دارک مود در DataStore */
     override suspend fun saveDarkModeState(mode: ItemDarkMode) {
         context.ThemeDataStore.edit { prefs ->
             prefs[ThemePrefKeys.DARK_MODE_CODE] = mode.code
