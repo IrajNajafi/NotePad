@@ -1,6 +1,6 @@
 # 📝 NotePad — Modern Note-Taking App
 
-**NotePad** is a modern Android application built with **Kotlin**, **Jetpack Compose**, and the **MVVM** architecture.  
+**NotePad** is a modern Android application built with **Kotlin**, **Jetpack Compose**, and **MVVM** architecture.  
 It provides a clean, fast, and intuitive experience for creating, organizing, and personalizing your notes and checklists.
 
 ---
@@ -16,20 +16,39 @@ It provides a clean, fast, and intuitive experience for creating, organizing, an
 - 🔎 **Dynamic Text Zoom** — Change text size via buttons or pinch gestures.
 - 🎨 **Modern UI** — Clean, responsive design built entirely with Jetpack Compose.
 
----
+---## 📸 Screenshots
 
-## 📸 Screenshots
+<table>
+  <tr>
+    <td><img src="https://github.com/IrajNajafi/NotePad/raw/main/app/screenshots/homeScreen1.png" width="250"></td>
+    <td><img src="https://github.com/IrajNajafi/NotePad/raw/main/app/screenshots/homeScreen2.png" width="250"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/IrajNajafi/NotePad/raw/main/app/screenshots/note.png" width="250"></td>
+    <td><img src="https://github.com/IrajNajafi/NotePad/raw/main/app/screenshots/checkList.png" width="250"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/IrajNajafi/NotePad/raw/main/app/screenshots/sampleNote.png" width="250"></td>
+    <td><img src="https://github.com/IrajNajafi/NotePad/raw/main/app/screenshots/sampleCheckList.png" width="250"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/IrajNajafi/NotePad/raw/main/app/screenshots/delete.png" width="250"></td>
+     <td><img src="https://github.com/IrajNajafi/NotePad/raw/main/app/screenshots/darkMode.png" width="250"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/IrajNajafi/NotePad/raw/main/app/screenshots/search.png" width="250"></td>
+   <td><img src="https://github.com/IrajNajafi/NotePad/raw/main/app/screenshots/favorites.png" width="250"></td>
 
-|  |  |
-| :------------------------------: | :------------------------------: |
-| ![Home Screen1](screenshots/homeScreen1.png) | ![Home Screen2](screenshots/homeScreen2.png) |
-| ![Note](screenshots/note.png) | ![CheckList](screenshots/checkList.png) |
-| ![Sample Note](screenshots/sampleNote.png) | ![Sample CheckList](screenshots/sampleCheckList.png) |
-| ![Favorite](screenshots/favorites.png) | ![Delete](screenshots/delete.png) |
-| ![Search](screenshots/search.png) | ![Dark Mode](screenshots/darkMode.png) |
-| ![Settings](screenshots/settings.png) | ![Deleted Screen](screenshots/deleteScreen.png) |
-| ![Add Note](screenshots/addNote.png) | ![Add CheckList](screenshots/addCheckList.png) |
-
+  </tr>
+  <tr>
+    <td><img src="https://github.com/IrajNajafi/NotePad/raw/main/app/screenshots/settings.png" width="250"></td>
+    <td><img src="https://github.com/IrajNajafi/NotePad/raw/main/app/screenshots/deleteScreen.png" width="250"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/IrajNajafi/NotePad/raw/main/app/screenshots/addNote.png" width="250"></td>
+    <td><img src="https://github.com/IrajNajafi/NotePad/raw/main/app/screenshots/addCheckList.png" width="250"></td>
+  </tr>
+</table>
 ---
 
 ## 🛠️ Tech Stack
