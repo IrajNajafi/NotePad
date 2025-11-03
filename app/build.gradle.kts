@@ -83,13 +83,10 @@ dependencies {
     implementation(libs.androidx.datastore)
 
     // Network
-    implementation(libs.retrofit)
     implementation(libs.converter.gson)
     implementation(libs.gson)
 
-    // UI
-    implementation(libs.lottie)
-    implementation(libs.constraintlayot)
+
     //  StatusBar
     implementation(libs.accompanist.system.ui.controller)
 
